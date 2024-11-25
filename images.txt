@@ -6,6 +6,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform=linux/arm64 xiaoyaliu/alist
 library/alpine:latest
 bitnami/kafka:3.4.1
+docker.io/library/zookeeper:3.4.14
 #k8s源
 
 k8s.gcr.io/coredns/coredns:v1.8.6
