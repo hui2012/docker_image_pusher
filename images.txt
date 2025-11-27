@@ -9,5 +9,5 @@ bitnami/kafka:3.4.1
 docker.io/library/zookeeper:3.4.14
 #k8s源
 k8s.gcr.io/coredns/coredns:v1.8.6
-
+nginx:alpine
 swr.cn-north-1.myhuaweicloud.com/iivey/linux-desk:v1.0
